@@ -140,9 +140,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 📞 İletişim
 
 - **Website**: [www.onurportfolio.com](https://www.onurportfolio.com)
-- **Email**: onur@example.com
-- **LinkedIn**: [linkedin.com/in/onur](https://linkedin.com/in/onur)
-- **GitHub**: [github.com/onur](https://github.com/onur)
+- **Email**: onurraydg61@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/onur-aydo%C4%9Fdu-914597367/]
+- **GitHub**: [https://github.com/OnurArawn]
 
 ## 🙏 Teşekkürler
 
